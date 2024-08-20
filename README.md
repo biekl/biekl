@@ -1,16 +1,15 @@
-## Hi there 👋
+## boas vindas ao meu perfil💙
 
-<!--
-**biekl/biekl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é Gabriel Nascimento 
+estou estudando na alura 
+estou me desenvolvendo na linguagem JavaScript
+utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos 
 
-Here are some ideas to get you started:
+### você entra em contato comigo📫
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+poletto.gabriel@escola.pr.gov.br
+
+@biekl
+
+
+![](https://media1.tenor.com/m/opEBWw0uddoAAAAC/umm.gif)
